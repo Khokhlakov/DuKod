@@ -4,6 +4,6 @@ Permite visualizar, jugar con algunos conceptos introductorios de teoría de la 
 
 ## Powered by p5.js
 
-Una versión en linea se puede encontrar [aqui](https://editor.p5js.org/jmartinezcas/full/0DYHE_9rN).
+Una versión en linea se puede encontrar [aquí](https://editor.p5js.org/jmartinezcas/full/0DYHE_9rN).
 
 ![Sample](assets/sample.png)
